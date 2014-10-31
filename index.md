@@ -1,3 +1,7 @@
+---
+title: GitHub Foundations
+---
+
 # GitHub School Fan Page
 
 ## Denver is amazing
